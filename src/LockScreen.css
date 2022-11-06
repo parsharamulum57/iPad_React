@@ -1,0 +1,15 @@
+
+
+.lock-image{
+    width: 240px;
+    height:225px;
+}
+
+#lock-screen{
+    height: 90%;
+}
+.msg{
+    position: absolute;
+    top:200px;
+    
+}

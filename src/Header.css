@@ -1,0 +1,14 @@
+
+
+#battery-img{
+    width: 20px;
+    height: 15px;
+}
+.header-cont{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid black;
+    background-color: aqua;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}

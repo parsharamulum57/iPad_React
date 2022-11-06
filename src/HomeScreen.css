@@ -1,0 +1,18 @@
+
+
+.list-item {
+    padding: 15px;
+    box-shadow: 0px 0px 1px 0px black;
+    font-weight: 500;
+    list-style: none;
+  }
+  
+  .active {
+    background-color: #5a64f0b5;
+    border: 2px white solid;
+  }
+
+  #home-list{
+    margin: 0px;
+    padding: 0px;
+  }
